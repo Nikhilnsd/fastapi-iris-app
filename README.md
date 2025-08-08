@@ -132,5 +132,3 @@ Then visit →
 If this project helps you, **please give it a ⭐ on GitHub**!
 
 ***
-
-> Adding badges (Python version, Docker pulls, etc.) can make the README even more eye-catching. Let me know if you’d like those included.
