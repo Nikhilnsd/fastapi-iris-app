@@ -126,7 +126,7 @@ Then visit →
 ## 👨💻 Author
 
 **Nikhil S Doshikar**  
-✉️ *your.email@example.com*  
+✉️ *nikhilnsd01@gmail.com*  
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-doshikar-4b12b21a0/)
 
 If this project helps you, **please give it a ⭐ on GitHub**!
